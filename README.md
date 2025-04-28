@@ -284,7 +284,8 @@ public class MainActivity2 extends AppCompatActivity {
 
 ![workshop 1](https://github.com/user-attachments/assets/bfbb6bec-686f-44d2-9d5d-e2cc6b3cfe56)
 
-![image](https://github.com/user-attachments/assets/12a589f8-981f-44ed-8982-916490f948a3)
+![mad workshop 1](https://github.com/user-attachments/assets/88477e4a-c8bb-4d51-bc4f-140be5f9b5dc)
+
 
 
 
